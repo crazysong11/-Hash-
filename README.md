@@ -20,7 +20,7 @@
 
 ## Usage
 
-解压压缩包，启动dist/main.exe即可使用。
+解压压缩包，启动bin/dist/main.exe即可使用。
 
 ## Development
 
